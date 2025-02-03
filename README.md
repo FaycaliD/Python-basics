@@ -1,2 +1,2 @@
 # Python-basics
-🐍🔥 Et si je te disais que tu peux CRÉER ton propre jeu vidéo, programmer un robot ou même construire une intelligence artificielle… avec une SEULE ligne de code ?!
+🐍🔥 What if I told you that you could CREATE your own video game, program a robot, or even build an artificial intelligence… with just FEW line of code?!
